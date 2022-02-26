@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe ansvver to a scandalous pamphlet, entituled A speech made at a common hall by Alderman Garroway. With some few observations upon other pamphlets of the like nature, especially that called A letter sent into Milk-street.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77404</idno>
+            <idno type="STC">Wing B4542</idno>
+            <idno type="STC">Thomason E89_18</idno>
+            <idno type="STC">ESTC R20116</idno>
+            <idno type="EEBO-CITATION">99861707</idno>
+            <idno type="PROQUEST">99861707</idno>
+            <idno type="VID">155723</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155723)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E89[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe ansvver to a scandalous pamphlet, entituled A speech made at a common hall by Alderman Garroway. With some few observations upon other pamphlets of the like nature, especially that called A letter sent into Milk-street.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Nicolson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Febr. 15. Anno Dom. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In reply to : A speech made at a common hall by Alderman Garroway.</note>
+                  <note>Annotation on Thomason copy: "1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Garraway, Henry, --  Sir, 1575-1646. --  Speech made at a common hall by Alderman Garroway --  Early works to 1800.</term>
+               <term>Letter sent into Milk-street.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155723:1" rendition="simple:additions"/>
+            <p>A Briefe ANSVVER TO A Scandalous Pamphlet, ENTITULED <hi>A Speech made at a Common Hall by Alderman <hi>Garroway.</hi>
+               </hi>
+            </p>
+            <p>With ſome few obſervations upon other Pamphlets of the like na<g ref="char:EOLhyphen"/>ture, eſpecially that, CALLED <hi>A Letter ſent into Milk-ſtreet.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Francis Nicolſon, Febr.</hi> 15. <hi>Anno Dom.</hi> 1643. <add>1642</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155723:2"/>
+            <pb n="3" facs="tcp:155723:2"/>
+            <head>A briefe Anſwer to a ſcandalous Pamphlet, entituled, A Speech made at a Common Hall by Alderman <hi>Garroway.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Here came to my hands ſome few dayes ſince, a Pamphlet, entituled A Speech made by Alder<g ref="char:EOLhyphen"/>man <hi>Garroway</hi> at a Common Hall in London: and revolving with my ſelf the ſtrangeneſſe and ſubtiltie of the ſpeech, I could not but admire the craftie wit of the Author, and yet wonder more at his impudence, that hee durſt put ſo ſtrong an imputation upon ſo worthy a Gentleman as Alderman <hi>Garroway</hi> hath ever been accounted, ſo much a lovery of the tranquillitie of the Countrey, and the well-fare of the Citie: and ſeeing no man in all this time undertook to anſwer the ſpeech, out of a reverence to the man, whom my conſcience tels mee that Calumniator hath moſt egregiouſly abuſed, and to diſabuſe the people, who by ſuch a noted ſpeech from a man ſo well beloved of the Citizens, I thought it not unfit for me, though a perſon of little note in the world, to enter the liſts againſt him, that hath ſo cunningly treated the preſent ſtate of the Kingdome. And as the cunningeſt and moſt venomous ſer<g ref="char:EOLhyphen"/>pent lurks in the ſmootheſt and greeneſt graſſe, ſo ſhall wee find that fellow, whoſoever he was, that made the ſpeech, ſtrived to ſhadow and palliate his malice, with beginning his oration with the preſent miſeries of the Common-wealth which he ſeemes extremely to pitie, telling his readers (for I beleeve he never had audience) how apparent were the miſeries of the Kingdome, how hideous the preſent diſtra<g ref="char:EOLhyphen"/>ctions, ſuch as no age in this Countrey could ever parallel,
+<pb n="4" facs="tcp:155723:3"/>no hiſtorie examplifie; whereby having prepared them by that proeme, to beleeve hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a true lover of his Countrey, he thought it the apteſt way, to make them and it the reſt. And ſo having amplified the diſtractions attendent in the State at this preſent, hee deſcends to particularize the occa<g ref="char:EOLhyphen"/>ſions and cauſes and efficient of them, which he finds (as hee ſayes) to proceed from jealouſies and feares, not in his Ma<g ref="char:EOLhyphen"/>jeſtie, but rather implyes them in his High Court of Parlia<g ref="char:EOLhyphen"/>ment, which how far that is adverſe to all truth and likely<g ref="char:EOLhyphen"/>hood, I ſhall in briefe inſtance.</p>
+            <p>For that the Parliament ſhould be the authors of his Ma<g ref="char:EOLhyphen"/>jeſties diſtractions, jealouſies, or feares, is both untrue and improbable. The Parliament, we all know, is the ſupreme Councell of the Kingdome, a body congregated out of the wifeſt and ableſt heads thereof, for the rectifying the diſ<g ref="char:EOLhyphen"/>orders in the Common-wealth, and the cure of its diſtem<g ref="char:EOLhyphen"/>pers: and that theſe men ſhould ſtrive to atchieve thoſe ends, and to reduce the ſtate into order, by cauſing his Ma<g ref="char:EOLhyphen"/>jeſties jealouſies and feares, cannot ſtand with any probabi<g ref="char:EOLhyphen"/>litie to any well-affected judicious man. For certaine, the Parliament to full of wiſdome, and ſo endued with good<g ref="char:EOLhyphen"/>neſſe, temperance, and obedience to his Sacred Majeſtie, could never be ſo injurious to themſelves, and to the people that had entruſted them with the Kingdomes buſineſſe, as to ſtrive either by direct or indirect meanes, to ſeparate his Majeſtie, who is the head of that great Councell from the body thereof, themſelves. No, it was the verie machinati<g ref="char:EOLhyphen"/>ons and devices of ſuch malignants as this man ſeemes to be that did it, it was their cunning to ſave themſelves from puniſhment, being divers of them notorious Delinquents, to inſtill into his Majeſties good and gentle mind, thoſe vaine ſuſpicion of his Parliaments integritie towards him, that they ſhould ſeek to obtrude new dimunitions upon his roy<g ref="char:EOLhyphen"/>altie, and abridgements upon hsi Royall Prerogative, which how far it was and hath been from the generall thought and ſoule o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Parliament, may eaſily be proved by the ſpecialty
+<pb n="5" facs="tcp:155723:3"/>of their actions, which may thus briefly be cited in their frequent propoſitions to his Majeſtie, that if hee would gra<g ref="char:EOLhyphen"/>ciouſly hearken to their advices, they would make him f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r more beloved at home, and dreaded abroad, than any of his Royall Predeceſſours, they would ſettle him a revenue, and doe indeed what his Majeſtie pleaſed; ſo entire were the expreſſions, and certainly the ſame were the intentions of their loyaltie, which everie honeſt man is bound to beleeve, before the atteſtations and vaine ſurmiſes of this; and a thouſand ſuch idle companions: for were there ever more wholſome Lawes enacted, than by this preſent Parliament, more beneficiall to his Majeſtie, or more excellent for the people? As firſt, the putting downe the High Commiſſion Court, and that of the Star-Chamber, which were ſo de<g ref="char:EOLhyphen"/>ſtructive to the perſons and eſtates of the ſubject, the ſetling the Trienniall Parliament, beyond which, neither to his Ma<g ref="char:EOLhyphen"/>jeſtie nor to the Common-wealth, could have accrued a greater and more perſpicious happineſſe.</p>
+            <p>And had his ſacred Majeſty gone on the ſame bleſſed path of correſponce of this day that He walked in at the beginning with this preſent Parliament, theſe diſtractions which this man laments ſo in his Speech had never oppreſſed the Com<g ref="char:EOLhyphen"/>monwealth, nor he had occaſion to have foyſted this Oration on Alderman <hi>Garroway:</hi> the plundrings, rapines and bloodſhes which he voyces out in ſuch a pinfull manner, had ne<g ref="char:EOLhyphen"/>ver diſtained the beauty of the land with ruine, nor had theſe diſtractions in the Church which he maliciouſly imputes up<g ref="char:EOLhyphen"/>on ſeverall perſons of worth and eminence in the State and City ever been emergent in the Kingdome, the Schiſmes of <hi>Browniſme, Anabaptiſme,</hi> and the like had never beene ſo buſie nor the preaching in tubs, which he ſo much exclai<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> againſt, either countenanced or tollerated; which in truth never was, though he ſeemes abſolutely to imply to much, when he cryes out, <hi>there was a tim<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, good people, when the Book of Common Prayer was in ſuch reverence, that none durſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:155723:4"/>its purity,</hi> theſe are the Gentlemans words; <hi>there was a time alſo,</hi> as I may boldly tell them, when the Idoll of the Maſſe was in ſuch requeſt, that it was a capitall crime for any man to mutter the leaſt ſyllable againſt it, but that was a time of ignorance and ſuperſtition, which by the pure light and glo<g ref="char:EOLhyphen"/>rious Sun-ſhine of the Goſpell being expelled, the date of that time was expired, and then every one had liberty to ſpeake what they pleaſed. I make not this a parallel with the <hi>Com<g ref="char:EOLhyphen"/>mon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on Prayer</hi> or <hi>Liturgie</hi> now in uſe in the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> yet let me informe him thus much; if he hath ever read or heard the Cannon of Maſſe read, and underſtood the <hi>La<g ref="char:EOLhyphen"/>tine</hi> tongne, that the Book of <hi>Common-Prayer</hi> is put a graft orſien of the old ſtocke, the Maſſe; every Prayer in it being tranſlated out of the Maſſe, for that we may juſtly ſay, though all that is in the Maſſe-booke be not in the <hi>Common Prayer</hi> Booke, yet all that is in the <hi>Common Prayer</hi> Booke is in the Maſſe-book; ſo that if divers men of godly and unſuperſtitious minds doe not affect the Booke of <hi>Common Prayer,</hi> as it now is, but wiſhed a reformation in it, becauſe of its affini<g ref="char:EOLhyphen"/>ty with the Maſſe, they were no more to be blamed then thoſe of our Anceſtors, who ſought a reformation in the Maſſe and Popiſh Religion, becauſe of its groſſe errors and Idolatrous Ceremonies: and whereas hee ſayes, <hi>That the preſent Lord Mayor,</hi> who hath been too juſt a Patriot to the City, unleſſe hee had received more thankes for his paines, <hi>is a favourer and promoter of Schiſmes, becauſe hee never hath the Booke of Common Prayer read;</hi> what an ill conſequence does hee referre out of that <hi>Antecedent,</hi> is plaine and evi<g ref="char:EOLhyphen"/>dent to any one that underſtands <hi>Logicke:</hi> for admit my Lord Mayor never heares the Booke of <hi>Common Prayer,</hi> be<g ref="char:EOLhyphen"/>cauſe hee is ſatisfied in his conſcience that there are divers things in it which are erroneous, how does that conclude him a promoter of Schiſme; as well he may conclude thoſe Schiſmaticks and averſe to the doctrine of the Church of <hi>England</hi> that do not deſire to heare the <hi>Letany</hi> read, in which
+<pb n="7" facs="tcp:155723:4"/>is ſurely reliques of the Maſſe, paſt diſpute or queſtion; or that Canticle of the three children, which bid <hi>Shidrack, M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſach</hi> and <hi>Abednego</hi> praiſe the Lord who have beene dead thouſands of yeeres, and yet God ſayes in the Pſalmes, <hi>the dead praiſe him not;</hi> and for the imputation hee caſts upon Colonell <hi>Ver,</hi> that hee ſhould report, <hi>his wife could make better Prayers then the Common Prayer Booke,</hi> though I be<g ref="char:EOLhyphen"/>lieve the Gentleman did not ſay ſo, yet if hee had, what harme was there in that ſaying, when all the world knowes, that they who ſerve the Lord in Spirit and Faith, their Prayers are of as much value, though <hi>ex tempere</hi> and rude<g ref="char:EOLhyphen"/>ly penned, then thoſe that are ſet downe by Schollers in fine and quaint language, God onely reſpecting the integritie of the heart; but hee onely did this, and urged other more calumnies upon them, to incenſe the people againſt them, they being at that time called into queſtion by his Majeſty for facts, which certainly they may both juſtifie to God and their owne conſciences, having done nothing in the City of <hi>London,</hi> or in any other place which was not ordered them to performe by the decree of the Parliament; and ſo much ſhall ſuffice to be ſaid in anſwer to that Pamphlet.</p>
+            <p>Now, according to our promiſe, wee ſhall ſay a word or two of another of the ſame brood, though of a more acute and dangerous ſtile, namely, <hi>A Letter,</hi> to be writ<g ref="char:EOLhyphen"/>ten to one in <hi>Milkeſtreet,</hi> but who that one was, to whom it was written, or who was the writer, paſſes my <hi>Augury</hi> to determine; yet by the <hi>pedantique</hi> phraſe, it ſhould ap<g ref="char:EOLhyphen"/>peare to be ſent from ſome Student in the Univerſity, in<g ref="char:EOLhyphen"/>dowed, perhaps, with more learning then wiſdome, and more faction then honeſty, otherwiſe hee could not with ſuch an audacious and feareleſſe licence have taxed the pro<g ref="char:EOLhyphen"/>ceedings of the State; but ſuch calumnies, like arrowes ſhot upright, fall upon the owners heads, and wound themſelves: Slanders, like Snow, though it may for a ſmall ſpace, and in froſty weather, lie upon the ground, yet the Sunne no
+<pb n="8" facs="tcp:155723:5"/>ſooner ſhines, but it diſſolves into its native ſubſtance, water, and is diſperſed away and forgotten: 'tis ſo with theſe igno<g ref="char:EOLhyphen"/>minious ſlanders a while they may be believed and gaine credit with the people; the Sunne of truth once diſplaying his lightſome beames, they melt away like tales ill told, leave behinde them no remembrance, but vaniſh into miſts with the authors, who never would have written ſuch notori<g ref="char:EOLhyphen"/>ous untruths as are in theſe two Pamphlets, had they not had a minde like <hi>Herostratus</hi> that fiered <hi>Diana's</hi> Temple to doe ſomething to bee talked of when they are hanged, and acquire fame for miſchiefe; for I dare boldly averre, that bookes of this nature have done more miſchiefe ſince the beginning of theſe diſtractions and troubles in this Kingdome, then any one thing whatſoever, the people be<g ref="char:EOLhyphen"/>ing more diſturbed in their minds, and ſtaggered in their underſtandings by ſuch ſeditious untruths, then they could by any other publike endevour, mans nature being deſi<g ref="char:EOLhyphen"/>rous of novelties, and apt to credit them, when they come dreſſed like devells in Angells ſhapes, in the painted out<g ref="char:EOLhyphen"/>ſide of faire and ſpecious language, and this ſhall ſuffice for the preſent as an Anſwer to thoſe two ſcandalous Pamphlets.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
